@@ -15,7 +15,7 @@ body {
 	font-family: "Exo", sans-serif;
 	color: #fff;
 	background: linear-gradient(-45deg, #5700ba, #d300fe, #aa0118, #6e000f, #4d010b);
-	background-size: 400% 400%;
+	background-size: 450% 450%;
 	animation: gradientBG 15s ease infinite;
 }
 
